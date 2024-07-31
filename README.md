@@ -7,8 +7,8 @@ This project was developed for the Multimedia Technology course. It leverages **
 There are 2 levels of difficulty, each with specific features:
 | Difficulty Level | Size     | Mines    | Available time (seconds) | Super-mine |
 |------------------|----------|----------|--------------------------|------------|
-| 1                | 9 x 9    | [9 - 11] | [120 - 180]              | No         |
-| 2                | 16 x 16  | [35 - 45]| [240 - 360]              | Yes        |
+| 1 | 9 x 9    | [9 - 11] | [120 - 180] | No |
+| 2 | 16 x 16  | [35 - 45]| [240 - 360] | Yes |
 
 
 
