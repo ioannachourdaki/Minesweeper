@@ -33,17 +33,17 @@ are invalid, a popup window displays an appropriate error/exception message.
 and the available playing time, based on the configuration loaded. The countdown timer starts from the total available seconds 
 set during the load. Additionally, “Start” adjusts the game window dimensions according to the board size and creates the graphics for the closed squares.
 
-**Note:** You must select a game from “Load” first and then select “Start” to initialize the game correctly, even if the same game is to be selected.
+**Note:** The player must select a game from “Load” first and then select “Start” to initialize the game correctly, even if the same game is to be selected.
 
 - **“Exit”:** Terminates the game and closes the game window.
 
 - **“Round”:** Displays a popup window showing the characteristics of the last 5 completed games, retrieved from the queue of the PopupWindow class.
 
-- **“Solution”:** Ends the current game, reveals all mine locations, and registers the computer as the winner.
+- **“Solution”:** Ends the current game, reveals all Mine locations, and registers the computer as the winner.
 
 ### Clicking
-- Left Click: Reveals the contents of the clicked square.
-- Right Click: Adds or removes a flag on the clicked square.
+- **Left Click:** Reveals the contents of the clicked square.
+- **Right Click:** Adds or removes a flag on the clicked square.
 
 If the game ends due to a player winning or losing, mouse clicks are *disabled*.
 
