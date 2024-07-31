@@ -16,7 +16,7 @@ flag within the first 4 attempts, the contents of all tiles in the same row and 
 If any of these tiles contain a Mine, that Mine is disabled, and the player can no longer click on it.
 
 
-## Intructions
+## Instructions
 
 ### Menu Bar
 The player can navigate through the Menu Bar with the following options: “Application” > “Create”, “Load”, “Start”, “Exit” and “Details” > “Round”, “Solution”. 
