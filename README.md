@@ -1,4 +1,17 @@
-# Τεχνολογία Πολυμέσων - Εξαμηνιαία Εργασία
+# Minesweeper
+
+This project was developed for the Multimedia Technology course. It leverages **Java** to implement all core functionalities and **JavaFX** for the Graphical User Interface (GUI).
+
+## Features
+
+There are 2 levels of difficulty, each with specific features:
+| Difficulty Level | Size     | Mines    | Available time (seconds) | Super-mine |
+|------------------|----------|----------|--------------------------|------------|
+| 1                | 9 x 9    | [9 - 11] | [120 - 180]              | No         |
+| 2                | 16 x 16  | [35 - 45]| [240 - 360]              | Yes        |
+
+
+
 Στην παρούσα εξαμηνιαία εργασία ζητείται η υλοποίηση μιας παραλλαγής του κλασσικού παιχνιδιού «Ναρκαλιευτής», όπου ο χρήστης θα παίζει με αντίπαλο τον υπολογιστή.
 
  ## Σχεδιασμός Υλοποίησης 
