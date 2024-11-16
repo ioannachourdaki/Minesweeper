@@ -1,6 +1,6 @@
 # Minesweeper
 
-This project was developed for the Multimedia Technology course. It leverages **Java** to implement all core functionalities and **JavaFX** for the Graphical User Interface (GUI).
+This is a Minesweeper game implementation, developed for the Multimedia Technology Course at ECE NTUA. It leverages **Java** to implement all core functionalities and **JavaFX** for the Graphical User Interface (GUI).
 
 ## Features
 
